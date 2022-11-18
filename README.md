@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/dataset/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook/light" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/discussion/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shampaamin/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shampaamin/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shampaaminnotebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/shampaamin/discussion/light" />
 </p>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsubinium%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-![subinium](https://road-to-kaggle-grandmaster.vercel.app/api/simple/subinium)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshampaamin%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![shampaamin](https://road-to-kaggle-grandmaster.vercel.app/api/simple/shampaamin)
 
 ## Usage & Example
 
